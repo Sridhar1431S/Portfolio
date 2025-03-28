@@ -56,8 +56,8 @@ If you have any questions, feel free to reach out to me:
 
 Email: sridhar709398@gmail.com
 
-LinkedIn: Sridhar Reddy
+LinkedIn: https://www.linkedin.com/in/sridhar-reddy-a4779b258
 
-GitHub: Sridhar1431S
+GitHub: https://github.com/Sridhar1431S
 
 Thank you for visiting my portfolio! 🚀
