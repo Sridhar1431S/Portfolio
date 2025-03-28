@@ -34,11 +34,11 @@ cd portfolio
 
 Install dependencies:
 
-npm install  # If using React or Node.js
+npm install  
 
 Start the development server:
 
-npm start  # Or use the appropriate command for your framework
+npm start  
 
 🛠 Technologies Used
 
