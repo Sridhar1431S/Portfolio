@@ -5,6 +5,8 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 
 
+![Screenshot 2025-04-19 231214](https://github.com/user-attachments/assets/7d17e90f-5c99-46c8-a25f-fe6fc43ec62c)
+
 
 
 
@@ -18,6 +20,7 @@ Portfolio/
 ├── assets/            # Images, icons, etc.
 └── README.md          # Project documentation
 🚀 Features
+
 👨‍💻 About Me Section
 
 🛠️ Skills Showcase
@@ -29,6 +32,7 @@ Portfolio/
 💡 Responsive Design
 
 🛠️ Tech Stack
+
 HTML5
 
 CSS3
@@ -40,9 +44,7 @@ JavaScript
 Git & GitHub Pages
 
 📦 How to Run Locally
-bash
-Copy
-Edit
+
 # Clone the repo
 git clone https://github.com/Sridhar1431S/Portfolio.git
 
@@ -50,6 +52,7 @@ git clone https://github.com/Sridhar1431S/Portfolio.git
 cd Portfolio
 
 # Open index.html in your browser
+
 📬 Contact
 Feel free to connect with me via:
 
